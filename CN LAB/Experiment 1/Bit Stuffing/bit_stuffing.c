@@ -27,7 +27,7 @@ int main()
                     b[j]=0;
                 }
                 i=k;
-            }
+            }count=1;
         }
         else
         {
